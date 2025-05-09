@@ -1,4 +1,4 @@
-#Insane Kart Wii Readme :
+Insane Kart Wii Readme
 
 Pulsar
 
